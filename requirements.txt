@@ -1,0 +1,7 @@
+dotenv
+requests
+pymongo
+schedule
+python-dotenv
+kafka-python
+cassandra-driver
